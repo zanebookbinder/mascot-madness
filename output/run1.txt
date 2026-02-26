@@ -1,0 +1,328 @@
+============================================================
+       MASCOT MADNESS TOURNAMENT - FULL RESULTS
+============================================================
+
+------------------------------------------------------------
+WEST DIVISION
+------------------------------------------------------------
+
+  --- Round of 64 ---
+
+  Game 1: Duke Blue Devils vs Norfolk State Spartans
+  WINNER: Duke Blue Devils (Win probability: 79%)
+  "In a brutal upset, Duke Blue Devils dismantled Norfolk State Spartans piece by piece, using raw power and cunning to seal the victory."
+
+  Game 2: Villanova Wildcats vs Cal State Fullerton Titans
+  WINNER: Villanova Wildcats (Win probability: 58%)
+  "It was a bloodbath from the start — Villanova Wildcats absorbed everything Cal State Fullerton Titans had and came back twice as hard, ending it emphatically."
+
+  Game 3: Texas Tech Red Raiders vs Colgate Raiders
+  WINNER: Texas Tech Red Raiders (Win probability: 80%)
+  "Texas Tech Red Raiders toyed with Colgate Raiders early, then unleashed a furious finishing combination that left no doubt about the outcome."
+
+  Game 4: Purdue Boilermakers vs Vermont Catamounts
+  WINNER: Vermont Catamounts (Win probability: 84%)
+  "Vermont Catamounts dominated Purdue Boilermakers from the opening bell. The Purdue Boilermakers barely had time to react before the decisive blow ended it all."
+
+  Game 5: Saint Mary's Gaels vs UAB Blazers
+  WINNER: UAB Blazers (Win probability: 90%)
+  "UAB Blazers toyed with Saint Mary's Gaels early, then unleashed a furious finishing combination that left no doubt about the outcome."
+
+  Game 6: Alabama Crimson Tide vs Iowa State Cyclones
+  WINNER: Alabama Crimson Tide (Win probability: 80%)
+  "Alabama Crimson Tide toyed with Iowa State Cyclones early, then unleashed a furious finishing combination that left no doubt about the outcome."
+
+  Game 7: Michigan State Spartans vs Florida Gators
+  WINNER: Florida Gators (Win probability: 56%)
+  "It was a bloodbath from the start — Florida Gators absorbed everything Michigan State Spartans had and came back twice as hard, ending it emphatically."
+
+  Game 8: Seton Hall Pirates vs Tennessee Volunteers
+  WINNER: Tennessee Volunteers (Win probability: 83%)
+  "Tennessee Volunteers toyed with Seton Hall Pirates early, then unleashed a furious finishing combination that left no doubt about the outcome."
+
+  --- Round of 32 ---
+
+  Game 1: Duke Blue Devils vs Villanova Wildcats
+  WINNER: Duke Blue Devils (Win probability: 89%)
+  "Duke Blue Devils dominated Villanova Wildcats from the opening bell. The Villanova Wildcats barely had time to react before the decisive blow ended it all."
+
+  Game 2: Texas Tech Red Raiders vs Vermont Catamounts
+  WINNER: Vermont Catamounts (Win probability: 84%)
+  "Vermont Catamounts toyed with Texas Tech Red Raiders early, then unleashed a furious finishing combination that left no doubt about the outcome."
+
+  Game 3: UAB Blazers vs Alabama Crimson Tide
+  WINNER: Alabama Crimson Tide (Win probability: 84%)
+  "In a brutal upset, Alabama Crimson Tide dismantled UAB Blazers piece by piece, using raw power and cunning to seal the victory."
+
+  Game 4: Florida Gators vs Tennessee Volunteers
+  WINNER: Tennessee Volunteers (Win probability: 54%)
+  "It was a bloodbath from the start — Tennessee Volunteers absorbed everything Florida Gators had and came back twice as hard, ending it emphatically."
+
+  --- Sweet 16 ---
+
+  Game 1: Duke Blue Devils vs Vermont Catamounts
+  WINNER: Duke Blue Devils (Win probability: 89%)
+  "Duke Blue Devils toyed with Vermont Catamounts early, then unleashed a furious finishing combination that left no doubt about the outcome."
+
+  Game 2: Alabama Crimson Tide vs Tennessee Volunteers
+  WINNER: Tennessee Volunteers (Win probability: 54%)
+  "It was a bloodbath from the start — Tennessee Volunteers absorbed everything Alabama Crimson Tide had and came back twice as hard, ending it emphatically."
+
+  --- Elite 8 ---
+
+  Game 1: Duke Blue Devils vs Tennessee Volunteers
+  WINNER: Tennessee Volunteers (Win probability: 82%)
+  "Tennessee Volunteers toyed with Duke Blue Devils early, then unleashed a furious finishing combination that left no doubt about the outcome."
+
+  *** WEST CHAMPION: TENNESSEE VOLUNTEERS ***
+
+------------------------------------------------------------
+EAST DIVISION
+------------------------------------------------------------
+
+  --- Round of 64 ---
+
+  Game 1: Kansas Jayhawks vs Saint Peter's Peacocks
+  WINNER: Saint Peter's Peacocks (Win probability: 54%)
+  "In a brutal upset, Saint Peter's Peacocks dismantled Kansas Jayhawks piece by piece, using raw power and cunning to seal the victory."
+
+  Game 2: Auburn Tigers vs Jacksonville State Gamecocks
+  WINNER: Jacksonville State Gamecocks (Win probability: 92%)
+  "In a brutal upset, Jacksonville State Gamecocks dismantled Auburn Tigers piece by piece, using raw power and cunning to seal the victory."
+
+  Game 3: Wisconsin Badgers vs Montana Grizzlies
+  WINNER: Montana Grizzlies (Win probability: 72%)
+  "In a brutal upset, Montana Grizzlies dismantled Wisconsin Badgers piece by piece, using raw power and cunning to seal the victory."
+
+  Game 4: Arkansas Razorbacks vs Yale Bulldogs
+  WINNER: Yale Bulldogs (Win probability: 66%)
+  "Yale Bulldogs toyed with Arkansas Razorbacks early, then unleashed a furious finishing combination that left no doubt about the outcome."
+
+  Game 5: Iowa Hawkeyes vs Akron Zips
+  WINNER: Akron Zips (Win probability: 85%)
+  "In a brutal upset, Akron Zips dismantled Iowa Hawkeyes piece by piece, using raw power and cunning to seal the victory."
+
+  Game 6: LSU Tigers vs New Mexico State Aggies
+  WINNER: LSU Tigers (Win probability: 71%)
+  "LSU Tigers toyed with New Mexico State Aggies early, then unleashed a furious finishing combination that left no doubt about the outcome."
+
+  Game 7: Connecticut Huskies vs Loyola Chicago Ramblers
+  WINNER: Connecticut Huskies (Win probability: 90%)
+  "In a brutal upset, Connecticut Huskies dismantled Loyola Chicago Ramblers piece by piece, using raw power and cunning to seal the victory."
+
+  Game 8: San Diego State Aztecs vs Creighton Bluejays
+  WINNER: San Diego State Aztecs (Win probability: 86%)
+  "San Diego State Aztecs toyed with Creighton Bluejays early, then unleashed a furious finishing combination that left no doubt about the outcome."
+
+  --- Round of 32 ---
+
+  Game 1: Saint Peter's Peacocks vs Jacksonville State Gamecocks
+  WINNER: Jacksonville State Gamecocks (Win probability: 67%)
+  "In a brutal upset, Jacksonville State Gamecocks dismantled Saint Peter's Peacocks piece by piece, using raw power and cunning to seal the victory."
+
+  Game 2: Montana Grizzlies vs Yale Bulldogs
+  WINNER: Yale Bulldogs (Win probability: 91%)
+  "Yale Bulldogs used superior reach and ferocity to keep Montana Grizzlies off-balance all fight, landing a haymaker that sealed the deal."
+
+  Game 3: Akron Zips vs LSU Tigers
+  WINNER: LSU Tigers (Win probability: 94%)
+  "LSU Tigers toyed with Akron Zips early, then unleashed a furious finishing combination that left no doubt about the outcome."
+
+  Game 4: Connecticut Huskies vs San Diego State Aztecs
+  WINNER: San Diego State Aztecs (Win probability: 80%)
+  "It was a bloodbath from the start — San Diego State Aztecs absorbed everything Connecticut Huskies had and came back twice as hard, ending it emphatically."
+
+  --- Sweet 16 ---
+
+  Game 1: Jacksonville State Gamecocks vs Yale Bulldogs
+  WINNER: Jacksonville State Gamecocks (Win probability: 87%)
+  "Jacksonville State Gamecocks dominated Yale Bulldogs from the opening bell. The Yale Bulldogs barely had time to react before the decisive blow ended it all."
+
+  Game 2: LSU Tigers vs San Diego State Aztecs
+  WINNER: LSU Tigers (Win probability: 85%)
+  "In a brutal upset, LSU Tigers dismantled San Diego State Aztecs piece by piece, using raw power and cunning to seal the victory."
+
+  --- Elite 8 ---
+
+  Game 1: Jacksonville State Gamecocks vs LSU Tigers
+  WINNER: LSU Tigers (Win probability: 94%)
+  "LSU Tigers toyed with Jacksonville State Gamecocks early, then unleashed a furious finishing combination that left no doubt about the outcome."
+
+  *** EAST CHAMPION: LSU TIGERS ***
+
+------------------------------------------------------------
+SOUTH DIVISION
+------------------------------------------------------------
+
+  --- Round of 64 ---
+
+  Game 1: Gonzaga Bulldogs vs Longwood Lancers
+  WINNER: Longwood Lancers (Win probability: 77%)
+  "Longwood Lancers toyed with Gonzaga Bulldogs early, then unleashed a furious finishing combination that left no doubt about the outcome."
+
+  Game 2: Memphis Tigers vs Georgia State Panthers
+  WINNER: Georgia State Panthers (Win probability: 83%)
+  "It was a bloodbath from the start — Georgia State Panthers absorbed everything Memphis Tigers had and came back twice as hard, ending it emphatically."
+
+  Game 3: Arizona Wildcats vs Chattanooga Mocs
+  WINNER: Chattanooga Mocs (Win probability: 85%)
+  "Chattanooga Mocs toyed with Arizona Wildcats early, then unleashed a furious finishing combination that left no doubt about the outcome."
+
+  Game 4: Virginia Cavaliers vs South Dakota State Jackrabbits
+  WINNER: South Dakota State Jackrabbits (Win probability: 65%)
+  "South Dakota State Jackrabbits used superior reach and ferocity to keep Virginia Cavaliers off-balance all fight, landing a haymaker that sealed the deal."
+
+  Game 5: Ohio State Buckeyes vs Richmond Spiders
+  WINNER: Ohio State Buckeyes (Win probability: 55%)
+  "Ohio State Buckeyes toyed with Richmond Spiders early, then unleashed a furious finishing combination that left no doubt about the outcome."
+
+  Game 6: Texas Longhorns vs Michigan Wolverines
+  WINNER: Texas Longhorns (Win probability: 79%)
+  "Texas Longhorns dominated Michigan Wolverines from the opening bell. The Michigan Wolverines barely had time to react before the decisive blow ended it all."
+
+  Game 7: USC Trojans vs UTSA Roadrunners
+  WINNER: USC Trojans (Win probability: 60%)
+  "USC Trojans toyed with UTSA Roadrunners early, then unleashed a furious finishing combination that left no doubt about the outcome."
+
+  Game 8: Florida State Seminoles vs Colorado Buffaloes
+  WINNER: Florida State Seminoles (Win probability: 75%)
+  "It was a bloodbath from the start — Florida State Seminoles absorbed everything Colorado Buffaloes had and came back twice as hard, ending it emphatically."
+
+  --- Round of 32 ---
+
+  Game 1: Longwood Lancers vs Georgia State Panthers
+  WINNER: Longwood Lancers (Win probability: 60%)
+  "In a brutal upset, Longwood Lancers dismantled Georgia State Panthers piece by piece, using raw power and cunning to seal the victory."
+
+  Game 2: Chattanooga Mocs vs South Dakota State Jackrabbits
+  WINNER: Chattanooga Mocs (Win probability: 75%)
+  "Chattanooga Mocs toyed with South Dakota State Jackrabbits early, then unleashed a furious finishing combination that left no doubt about the outcome."
+
+  Game 3: Ohio State Buckeyes vs Texas Longhorns
+  WINNER: Ohio State Buckeyes (Win probability: 87%)
+  "It was a bloodbath from the start — Ohio State Buckeyes absorbed everything Texas Longhorns had and came back twice as hard, ending it emphatically."
+
+  Game 4: USC Trojans vs Florida State Seminoles
+  WINNER: USC Trojans (Win probability: 73%)
+  "USC Trojans used superior reach and ferocity to keep Florida State Seminoles off-balance all fight, landing a haymaker that sealed the deal."
+
+  --- Sweet 16 ---
+
+  Game 1: Longwood Lancers vs Chattanooga Mocs
+  WINNER: Chattanooga Mocs (Win probability: 76%)
+  "Chattanooga Mocs dominated Longwood Lancers from the opening bell. The Longwood Lancers barely had time to react before the decisive blow ended it all."
+
+  Game 2: Ohio State Buckeyes vs USC Trojans
+  WINNER: USC Trojans (Win probability: 54%)
+  "USC Trojans toyed with Ohio State Buckeyes early, then unleashed a furious finishing combination that left no doubt about the outcome."
+
+  --- Elite 8 ---
+
+  Game 1: Chattanooga Mocs vs USC Trojans
+  WINNER: Chattanooga Mocs (Win probability: 77%)
+  "Chattanooga Mocs dominated USC Trojans from the opening bell. The USC Trojans barely had time to react before the decisive blow ended it all."
+
+  *** SOUTH CHAMPION: CHATTANOOGA MOCS ***
+
+------------------------------------------------------------
+MIDWEST DIVISION
+------------------------------------------------------------
+
+  --- Round of 64 ---
+
+  Game 1: Baylor Bears vs Texas Southern Tigers
+  WINNER: Baylor Bears (Win probability: 87%)
+  "Baylor Bears used superior reach and ferocity to keep Texas Southern Tigers off-balance all fight, landing a haymaker that sealed the deal."
+
+  Game 2: Kentucky Wildcats vs Winthrop Eagles
+  WINNER: Kentucky Wildcats (Win probability: 63%)
+  "Kentucky Wildcats used superior reach and ferocity to keep Winthrop Eagles off-balance all fight, landing a haymaker that sealed the deal."
+
+  Game 3: UCLA Bruins vs Wright State Raiders
+  WINNER: Wright State Raiders (Win probability: 60%)
+  "Wright State Raiders dominated UCLA Bruins from the opening bell. The UCLA Bruins barely had time to react before the decisive blow ended it all."
+
+  Game 4: Providence Friars vs Rutgers Scarlet Knights
+  WINNER: Providence Friars (Win probability: 87%)
+  "Providence Friars toyed with Rutgers Scarlet Knights early, then unleashed a furious finishing combination that left no doubt about the outcome."
+
+  Game 5: Houston Cougars vs Cincinnati Bearcats
+  WINNER: Houston Cougars (Win probability: 94%)
+  "Houston Cougars toyed with Cincinnati Bearcats early, then unleashed a furious finishing combination that left no doubt about the outcome."
+
+  Game 6: TCU Horned Frogs vs Indiana Hoosiers
+  WINNER: TCU Horned Frogs (Win probability: 60%)
+  "TCU Horned Frogs used superior reach and ferocity to keep Indiana Hoosiers off-balance all fight, landing a haymaker that sealed the deal."
+
+  Game 7: Murray State Racers vs San Francisco Dons
+  WINNER: San Francisco Dons (Win probability: 65%)
+  "It was a bloodbath from the start — San Francisco Dons absorbed everything Murray State Racers had and came back twice as hard, ending it emphatically."
+
+  Game 8: North Carolina Tar Heels vs Marquette Golden Eagles
+  WINNER: Marquette Golden Eagles (Win probability: 91%)
+  "In a brutal upset, Marquette Golden Eagles dismantled North Carolina Tar Heels piece by piece, using raw power and cunning to seal the victory."
+
+  --- Round of 32 ---
+
+  Game 1: Baylor Bears vs Kentucky Wildcats
+  WINNER: Kentucky Wildcats (Win probability: 89%)
+  "It was a bloodbath from the start — Kentucky Wildcats absorbed everything Baylor Bears had and came back twice as hard, ending it emphatically."
+
+  Game 2: Wright State Raiders vs Providence Friars
+  WINNER: Providence Friars (Win probability: 82%)
+  "Providence Friars dominated Wright State Raiders from the opening bell. The Wright State Raiders barely had time to react before the decisive blow ended it all."
+
+  Game 3: Houston Cougars vs TCU Horned Frogs
+  WINNER: Houston Cougars (Win probability: 91%)
+  "In a brutal upset, Houston Cougars dismantled TCU Horned Frogs piece by piece, using raw power and cunning to seal the victory."
+
+  Game 4: San Francisco Dons vs Marquette Golden Eagles
+  WINNER: San Francisco Dons (Win probability: 69%)
+  "It was a bloodbath from the start — San Francisco Dons absorbed everything Marquette Golden Eagles had and came back twice as hard, ending it emphatically."
+
+  --- Sweet 16 ---
+
+  Game 1: Kentucky Wildcats vs Providence Friars
+  WINNER: Providence Friars (Win probability: 85%)
+  "Providence Friars toyed with Kentucky Wildcats early, then unleashed a furious finishing combination that left no doubt about the outcome."
+
+  Game 2: Houston Cougars vs San Francisco Dons
+  WINNER: Houston Cougars (Win probability: 54%)
+  "In a brutal upset, Houston Cougars dismantled San Francisco Dons piece by piece, using raw power and cunning to seal the victory."
+
+  --- Elite 8 ---
+
+  Game 1: Providence Friars vs Houston Cougars
+  WINNER: Providence Friars (Win probability: 54%)
+  "Providence Friars used superior reach and ferocity to keep Houston Cougars off-balance all fight, landing a haymaker that sealed the deal."
+
+  *** MIDWEST CHAMPION: PROVIDENCE FRIARS ***
+
+============================================================
+FINAL FOUR
+============================================================
+
+  --- Semifinal 1: West vs East ---
+
+  Game 1: Tennessee Volunteers vs LSU Tigers
+  WINNER: LSU Tigers (Win probability: 76%)
+  "LSU Tigers dominated Tennessee Volunteers from the opening bell. The Tennessee Volunteers barely had time to react before the decisive blow ended it all."
+
+  --- Semifinal 2: South vs Midwest ---
+
+  Game 1: Chattanooga Mocs vs Providence Friars
+  WINNER: Providence Friars (Win probability: 61%)
+  "It was a bloodbath from the start — Providence Friars absorbed everything Chattanooga Mocs had and came back twice as hard, ending it emphatically."
+
+============================================================
+CHAMPIONSHIP
+============================================================
+
+
+  Game 1: LSU Tigers vs Providence Friars
+  WINNER: LSU Tigers (Win probability: 72%)
+  "LSU Tigers dominated Providence Friars from the opening bell. The Providence Friars barely had time to react before the decisive blow ended it all."
+
+============================================================
+     MASCOT MADNESS CHAMPION: LSU TIGERS
+============================================================
