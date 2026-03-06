@@ -9,72 +9,72 @@ WEST DIVISION
   --- Round of 64 ---
 
   Game 1: Duke Blue Devils vs Norfolk State Spartans
-  WINNER: Duke Blue Devils (Win probability: 79%)
-  "In a brutal upset, Duke Blue Devils dismantled Norfolk State Spartans piece by piece, using raw power and cunning to seal the victory."
+  WINNER: Duke Blue Devils (Win probability: 72%)
+  "In the depths of a gothic cathedral at midnight, the Blue Devil materialized in a surge of hellfire and brimstone, its crimson wings unfurling to blot out the stained glass while sulfurous smoke choked the air. The Spartan warrior raised his bronze shield and spear with grim determination, but the demon's claws raked through metal like paper, and a backhanded swipe of leathery wing sent the soldier crashing through stone pillars. When the dust settled, only the Devil remained standing in the darkness, its sulfurous laugh echoing through the ruins as the Spartan lay motionless among the rubble."
 
-  Game 2: Villanova Wildcats vs Cal State Fullerton Titans
-  WINNER: Villanova Wildcats (Win probability: 58%)
-  "It was a bloodbath from the start — Villanova Wildcats absorbed everything Cal State Fullerton Titans had and came back twice as hard, ending it emphatically."
+  Game 2: Seton Hall Pirates vs Tennessee Volunteers
+  WINNER: Seton Hall Pirates (Win probability: 68%)
+  "On the deck of a merchant vessel anchored in the Caribbean, the Pirate captain drew cutlass and flintlock while the Volunteer soldier charged with musket and bayonet across the swaying planks. Steel clashed and sparked as the Pirate's superior seafaring agility and tactical cunning gave him the edge, his blade finding gaps in the Volunteer's regimented stance while cannon fire boomed in the distance. When the smoke cleared, the Volunteer lay defeated on the salt-stained wood, and the Pirate stood victorious with boot on chest and steel at throat, proving that cunning and maritime dominance trump land-based valor."
 
-  Game 3: Texas Tech Red Raiders vs Colgate Raiders
-  WINNER: Texas Tech Red Raiders (Win probability: 80%)
-  "Texas Tech Red Raiders toyed with Colgate Raiders early, then unleashed a furious finishing combination that left no doubt about the outcome."
+  Game 3: Saint Mary's Gaels vs UAB Blazers
+  WINNER: UAB Blazers (Win probability: 72%)
+  "In an abandoned steel mill outside Birmingham, the Gael warrior charged with shield and claymore raised high, but the Blazer materialized from the shadows as pure supernatural flame and fury. The mythical fire creature engulfed the Scottish fighter in scorching inferno before he could close distance, his steel and ancient battle cries meaningless against a being of pure elemental destruction. As the Gael fell to his knees surrounded by roaring hellfire, the Blazer stood victorious in the smoke and embers, a creature that simply could not be touched by mortal steel."
 
   Game 4: Purdue Boilermakers vs Vermont Catamounts
-  WINNER: Vermont Catamounts (Win probability: 84%)
-  "Vermont Catamounts dominated Purdue Boilermakers from the opening bell. The Purdue Boilermakers barely had time to react before the decisive blow ended it all."
+  WINNER: Purdue Boilermakers (Win probability: 72%)
+  "In the shadow of a massive steel foundry at dusk, the Catamount lunged with tooth and claw across the scorching metal platform, but the Boilermaker swung a wrench the size of a tree trunk and caught the feline mid-leap with a sickening crunch that sent it sprawling across the hot iron. The industrial warrior pressed the advantage without mercy, his mechanical strength and worker's grit grinding down the mountain cat's wild ferocity until it could no longer rise. When the smoke cleared and the furnaces cooled, only the Boilermaker stood among the steel and silence."
 
-  Game 5: Saint Mary's Gaels vs UAB Blazers
-  WINNER: UAB Blazers (Win probability: 90%)
-  "UAB Blazers toyed with Saint Mary's Gaels early, then unleashed a furious finishing combination that left no doubt about the outcome."
+  Game 5: Alabama Crimson Tide vs Iowa State Cyclones
+  WINNER: Alabama Crimson Tide (Win probability: 72%)
+  "In a dust choked cotton field under a bruised twilight sky, the Crimson Tide's elephant charged with earth shaking force, a three ton juggernaut of tusks and thick hide that trampled through the Cyclone's whirling winds like they were paper. The tornado spun desperately, trying to lift and scatter the beast, but the pachyderm's raw mass and predatory intelligence kept it grounded and advancing until a final trumpet call shattered the storm's grip. When the dust settled, the elephant stood victorious over the dissipating winds, proving that mythical force bends to physical dominance and evolutionary weapons."
 
-  Game 6: Alabama Crimson Tide vs Iowa State Cyclones
-  WINNER: Alabama Crimson Tide (Win probability: 80%)
-  "Alabama Crimson Tide toyed with Iowa State Cyclones early, then unleashed a furious finishing combination that left no doubt about the outcome."
+  Game 6: Texas Tech Red Raiders vs Colgate Raiders
+  WINNER: Texas Tech Red Raiders (Win probability: 76%)
+  "In the dusty heart of a West Texas canyon at high noon, the Red Raider emerged on horseback with rifle drawn and spurs jangling, a mounted warrior of the frontier who'd faced down outlaws and dust storms alike. The Colgate Raider charged forward on foot with nothing but a sword and grit, but the Texas Tech gunslinger fired first, the crack of rifle fire echoing off canyon walls as the mounted advantage and historical cavalry dominance proved too much for a single swordsman to overcome. The raider in red claimed the canyon as dust settled around the fallen challenger, proving that in the Old West, the high ground and firepower always win."
 
   Game 7: Michigan State Spartans vs Florida Gators
-  WINNER: Florida Gators (Win probability: 56%)
-  "It was a bloodbath from the start — Florida Gators absorbed everything Michigan State Spartans had and came back twice as hard, ending it emphatically."
+  WINNER: Michigan State Spartans (Win probability: 72%)
+  "In an ancient Roman colosseum flooded with murky swamp water, the armored Spartan warrior planted his feet and raised his bronze shield as the Gator lunged with snapping jaws and thrashing tail, the reptile's prehistoric fury meeting the disciplined spear work of a trained soldier. The Spartan sidestepped the death roll, drove his spear through scales and sinew with surgical precision, and finished the beast with a brutal thrust as it convulsed and sank beneath the brackish water, proving that human tactics and tempered steel triumph over raw animal ferocity."
 
-  Game 8: Seton Hall Pirates vs Tennessee Volunteers
-  WINNER: Tennessee Volunteers (Win probability: 83%)
-  "Tennessee Volunteers toyed with Seton Hall Pirates early, then unleashed a furious finishing combination that left no doubt about the outcome."
+  Game 8: Villanova Wildcats vs Cal State Fullerton Titans
+  WINNER: Cal State Fullerton Titans (Win probability: 78%)
+  "In the ruins of an ancient Greek colosseum, the Wildcat lunged with fangs bared and claws extended, a blur of spotted fur and predatory instinct that would have torn apart prey on the savanna. The Titan rose to his full mythological height, bronze armor gleaming as he caught the beast mid-leap and hurled it against crumbling stone with the casual strength of a god, then planted his sandaled foot on the creature's heaving chest as dust settled around them. Raw animal fury had met divine supremacy, and the mountain's echo carried only the victor's name."
 
   --- Round of 32 ---
 
-  Game 1: Duke Blue Devils vs Villanova Wildcats
-  WINNER: Duke Blue Devils (Win probability: 89%)
-  "Duke Blue Devils dominated Villanova Wildcats from the opening bell. The Villanova Wildcats barely had time to react before the decisive blow ended it all."
+  Game 1: Duke Blue Devils vs Seton Hall Pirates
+  WINNER: Duke Blue Devils (Win probability: 72%)
+  "In the shadowed belly of a 17th century galleon anchored off the Carolina coast, the Pirate captain drew his cutlass and fired his flintlock pistol, but the shots passed clean through the Blue Devil's crimson form as if striking smoke and malice. The demon materialized inches from the corsair's face, claws raking through flesh and bone, its sulfurous wings beating the salt air into chaos as the Pirate screamed and fell to the wooden deck bleeding into the bilge water. When the smoke cleared, only the Blue Devil remained standing, wickedly calm, while the galleon creaked and settled around the corpse of its vanquished captain."
 
-  Game 2: Texas Tech Red Raiders vs Vermont Catamounts
-  WINNER: Vermont Catamounts (Win probability: 84%)
-  "Vermont Catamounts toyed with Texas Tech Red Raiders early, then unleashed a furious finishing combination that left no doubt about the outcome."
+  Game 2: UAB Blazers vs Purdue Boilermakers
+  WINNER: UAB Blazers (Win probability: 68%)
+  "In the depths of an industrial steel mill where molten metal flows like rivers of fire, the Blazer materialized as pure supernatural flame and fury, a being of scorching heat and primal inferno that turned the very air into a shimmering weapon. The Boilermaker swung his wrench with mechanical precision and industrial might, but the intense heat warped his metal tools and melted the soles from his boots as the Blazer's otherworldly fire consumed everything in its path. The Boilermaker fell to one knee, equipment smoking and useless, while the Blazer's flames danced triumphantly across the scorched foundry floor."
 
-  Game 3: UAB Blazers vs Alabama Crimson Tide
-  WINNER: Alabama Crimson Tide (Win probability: 84%)
-  "In a brutal upset, Alabama Crimson Tide dismantled UAB Blazers piece by piece, using raw power and cunning to seal the victory."
+  Game 3: Alabama Crimson Tide vs Texas Tech Red Raiders
+  WINNER: Alabama Crimson Tide (Win probability: 72%)
+  "In a dusty Texas canyon at sunset, the massive Crimson Tide elephant charged with earth shaking force, its tusks gleaming as it trampled toward the Red Raider on horseback who fired wildly but couldn't control his mount in the face of such primal power. The elephant's trunk wrapped around the raider and his steed, lifting both skyward before hurling them against the canyon wall in a bone breaking collision that echoed across the desert. When the dust settled, only the Tide stood victorious, its tusks still raised in triumph as the sun dipped below the ridge."
 
-  Game 4: Florida Gators vs Tennessee Volunteers
-  WINNER: Tennessee Volunteers (Win probability: 54%)
-  "It was a bloodbath from the start — Tennessee Volunteers absorbed everything Florida Gators had and came back twice as hard, ending it emphatically."
+  Game 4: Michigan State Spartans vs Cal State Fullerton Titans
+  WINNER: Michigan State Spartans (Win probability: 72%)
+  "In the ancient marble ruins of a Greek amphitheater, the Spartan warrior and the Titan clashed in a storm of bronze and fury, but the mortal soldier's tactical discipline and phalanx training proved devastatingly effective against the mythical giant's raw power. The Spartan's spear found gaps in the Titan's defenses with surgical precision, each thrust calculated and merciless, while his shield wall technique neutralized the creature's overwhelming strength. As the Titan fell bleeding onto ancient stone, the Spartan stood victorious, proving that human strategy and centuries of warrior culture could topple even divine mythology."
 
   --- Sweet 16 ---
 
-  Game 1: Duke Blue Devils vs Vermont Catamounts
-  WINNER: Duke Blue Devils (Win probability: 89%)
-  "Duke Blue Devils toyed with Vermont Catamounts early, then unleashed a furious finishing combination that left no doubt about the outcome."
+  Game 1: Duke Blue Devils vs UAB Blazers
+  WINNER: Duke Blue Devils (Win probability: 72%)
+  "In the scorched ruins of an abandoned steel mill, the Blue Devil materialized in a cloud of sulfurous smoke, its crimson wings unfurling as hellfire danced across ancient machinery while the Blazer emerged from the flames with determined eyes and blazing fists. The demon's claws raked through the air with supernatural speed, each swipe leaving trails of brimstone that incinerated the Blazer's fire attacks before they could fully form, until a vicious backhand sent the mascot crashing through a rusted support beam. When the dust settled, only the Blue Devil remained standing amid the inferno, its mythical power proving too vast for mortal flame to overcome."
 
-  Game 2: Alabama Crimson Tide vs Tennessee Volunteers
-  WINNER: Tennessee Volunteers (Win probability: 54%)
-  "It was a bloodbath from the start — Tennessee Volunteers absorbed everything Alabama Crimson Tide had and came back twice as hard, ending it emphatically."
+  Game 2: Alabama Crimson Tide vs Michigan State Spartans
+  WINNER: Alabama Crimson Tide (Win probability: 68%)
+  "In the blood red clay of a Roman colosseum at dusk, the Spartan warrior planted his feet behind his shield and spear, discipline and bronze gleaming as he advanced with measured strikes. But the Crimson Tide crashed over him like a living tsunami, a mythical force of nature that overwhelmed pure martial training, sweeping the soldier across the arena floor in a torrent of raw elemental power that no shield wall could withstand. When the dust settled, the Spartan lay gasping and broken while the Tide receded, leaving only devastation in its wake."
 
   --- Elite 8 ---
 
-  Game 1: Duke Blue Devils vs Tennessee Volunteers
-  WINNER: Tennessee Volunteers (Win probability: 82%)
-  "Tennessee Volunteers toyed with Duke Blue Devils early, then unleashed a furious finishing combination that left no doubt about the outcome."
+  Game 1: Duke Blue Devils vs Alabama Crimson Tide
+  WINNER: Duke Blue Devils (Win probability: 68%)
+  "In the shadow of a gothic cathedral at midnight, the Blue Devil materialized in a swirl of brimstone and fury, its crimson hide rippling with infernal power as it circled the Crimson Tide's massive elephant form. The beast charged with thunderous force, tusks lowered and ancient strength trembling the ground, but the demon's claws found purchase in thick hide while hellfire scorched the pachyderm's flank, and a vicious swipe across the elephant's face sent it reeling backward in shock and pain. As the smoke cleared, the Blue Devil stood victorious with the elephant on one knee, the raw mythical power of a demon proving superior to even nature's mightiest creature."
 
-  *** WEST CHAMPION: TENNESSEE VOLUNTEERS ***
+  *** WEST CHAMPION: DUKE BLUE DEVILS ***
 
 ------------------------------------------------------------
 EAST DIVISION
@@ -83,70 +83,70 @@ EAST DIVISION
   --- Round of 64 ---
 
   Game 1: Kansas Jayhawks vs Saint Peter's Peacocks
-  WINNER: Saint Peter's Peacocks (Win probability: 54%)
-  "In a brutal upset, Saint Peter's Peacocks dismantled Kansas Jayhawks piece by piece, using raw power and cunning to seal the victory."
+  WINNER: Kansas Jayhawks (Win probability: 78%)
+  "In a grand cathedral lined with stained glass, the Jayhawk descended from the vaulted ceiling with razor sharp talons and the predatory hunger of a apex raptor, while the Peacock fanned its magnificent tail in a desperate display of iridescent feathers that meant nothing against nature's killing machine. The bird of prey struck with surgical precision, talons raking across the peacock's neck as it shrieked and tried to flee, but the jayhawk's superior speed and hunting instinct left no room for escape. When the feathers settled in the pale light, only the jayhawk remained perched on the cold stone floor, breathing hard and victorious."
 
-  Game 2: Auburn Tigers vs Jacksonville State Gamecocks
-  WINNER: Jacksonville State Gamecocks (Win probability: 92%)
-  "In a brutal upset, Jacksonville State Gamecocks dismantled Auburn Tigers piece by piece, using raw power and cunning to seal the victory."
+  Game 2: San Diego State Aztecs vs Creighton Bluejays
+  WINNER: San Diego State Aztecs (Win probability: 72%)
+  "In the ancient stone temples of a misty canyon at dawn, the Aztec warrior emerged in full regalia with obsidian blade and feathered headdress, eyes burning with the power of a civilization that once dominated Mesoamerica. The Bluejay dove and struck with talons and beak, but its small frame and lack of weapons meant nothing against the Aztec's supernatural connection to war gods and brutal combat expertise. The warrior's obsidian blade found its mark as the bird fell from the sky, and the Aztec stood victorious among the sacred stones, the echo of conquest ringing through the canyon."
 
-  Game 3: Wisconsin Badgers vs Montana Grizzlies
-  WINNER: Montana Grizzlies (Win probability: 72%)
-  "In a brutal upset, Montana Grizzlies dismantled Wisconsin Badgers piece by piece, using raw power and cunning to seal the victory."
+  Game 3: Iowa Hawkeyes vs Akron Zips
+  WINNER: Iowa Hawkeyes (Win probability: 78%)
+  "In a windswept cornfield at sunset, the Hawkeye dove from the sky with talons extended and slashed across the Zip's synthetic costume, tearing through fabric with the predatory precision of a genuine raptor. The Zip bounced and spun with zippy acrobatic moves, but lacked any real bite or physical threat against a bird of prey built for violence. The Hawkeye's natural killing instinct and aerial superiority proved too much for a mascot whose only power was moving fast in circles, leaving the Zip crumpled in the dirt while the hawk circled overhead, victorious."
 
   Game 4: Arkansas Razorbacks vs Yale Bulldogs
-  WINNER: Yale Bulldogs (Win probability: 66%)
-  "Yale Bulldogs toyed with Arkansas Razorbacks early, then unleashed a furious finishing combination that left no doubt about the outcome."
+  WINNER: Arkansas Razorbacks (Win probability: 78%)
+  "In a grimy steel cage suspended above a roaring stadium, the Razorback charged with supernatural ferocity, tusks gleaming and hide bristling with primal rage as it shredded the air with bone-deep shrieks. The Bulldog planted its stocky frame and clamped down with legendary bite strength, but the hog's raw speed and those curved tusks found flesh first, raking across the canine's shoulder as it spun away yelping. When the dust settled, the Razorback stood scarred but victorious, its feral screech echoing through the rafters as the Bulldog limped to the cage edge, outmatched by sheer untamed brutality."
 
-  Game 5: Iowa Hawkeyes vs Akron Zips
-  WINNER: Akron Zips (Win probability: 85%)
-  "In a brutal upset, Akron Zips dismantled Iowa Hawkeyes piece by piece, using raw power and cunning to seal the victory."
+  Game 5: LSU Tigers vs New Mexico State Aggies
+  WINNER: LSU Tigers (Win probability: 78%)
+  "In a dusty desert arena beneath the New Mexico sun, the Bengal tiger's explosive power and predatory instinct overwhelmed the Aggie's livestock heritage as claws raked across leather and muscle gave way beneath fang and fury. The tiger's size advantage and apex predator status proved decisive against an Aggie whose strength lay in toughness and work ethic rather than combat dominance. When the dust settled, only the roaring victor remained, its golden coat matted with the grit of victory."
 
-  Game 6: LSU Tigers vs New Mexico State Aggies
-  WINNER: LSU Tigers (Win probability: 71%)
-  "LSU Tigers toyed with New Mexico State Aggies early, then unleashed a furious finishing combination that left no doubt about the outcome."
+  Game 6: Wisconsin Badgers vs Montana Grizzlies
+  WINNER: Montana Grizzlies (Win probability: 72%)
+  "In a dense northern forest thick with snow and ancient pines, the Grizzly rose to its full terrifying height, a 900 pound apex predator with claws like curved daggers and the raw power to snap spines. The Badger fought with teeth and ferocity, but size and predatory dominance overwhelmed its scrappy determination, and the Grizzly's massive paw crushed through the smaller creature's defense with one bone shattering swipe. When the dust settled, only the Grizzly stood breathing in the cold mountain air, the undisputed master of the wilderness."
 
   Game 7: Connecticut Huskies vs Loyola Chicago Ramblers
-  WINNER: Connecticut Huskies (Win probability: 90%)
-  "In a brutal upset, Connecticut Huskies dismantled Loyola Chicago Ramblers piece by piece, using raw power and cunning to seal the victory."
+  WINNER: Connecticut Huskies (Win probability: 72%)
+  "In a snow swept New England forest at dusk, the massive Husky lunged with primal fury and clamped its jaws around the Rambler's arm, shaking violently while snow exploded around them in a crimson mist. The Rambler tried to land desperate punches but the canine's superior size, predatory instinct, and raw bite force overpowered any human resistance. As the Husky released its grip and circled for the finish, the Rambler staggered backward into the gathering darkness, beaten by nature itself."
 
-  Game 8: San Diego State Aztecs vs Creighton Bluejays
-  WINNER: San Diego State Aztecs (Win probability: 86%)
-  "San Diego State Aztecs toyed with Creighton Bluejays early, then unleashed a furious finishing combination that left no doubt about the outcome."
+  Game 8: Auburn Tigers vs Jacksonville State Gamecocks
+  WINNER: Auburn Tigers (Win probability: 73%)
+  "In a dusty Louisiana bayou clearing at dusk, the Auburn Tiger's muscular 400 pound frame and razor sharp claws shredded through the Gamecock's initial charge, the big cat's predatory instincts and apex hunter status overwhelming the rooster's speed and aggression. The Gamecock fought with fury and pecking fury but lacked the raw physical dominance and lethal weaponry of a top tier predator, ultimately pinned beneath fangs and claws as the Tiger's superior size and killing power proved decisive. When the dust settled, the great cat stood bloodied but breathing, its natural throne at the top of the food chain reasserted once again."
 
   --- Round of 32 ---
 
-  Game 1: Saint Peter's Peacocks vs Jacksonville State Gamecocks
-  WINNER: Jacksonville State Gamecocks (Win probability: 67%)
-  "In a brutal upset, Jacksonville State Gamecocks dismantled Saint Peter's Peacocks piece by piece, using raw power and cunning to seal the victory."
+  Game 1: Kansas Jayhawks vs San Diego State Aztecs
+  WINNER: San Diego State Aztecs (Win probability: 72%)
+  "In the shadow of an ancient Aztec pyramid at dusk, the Jayhawk swooped and taloned through the air with predatory speed, a blue blur of beak and claw seeking an opening. The Aztec warrior planted his feet firm, obsidian blade gleaming as he sidestepped each dive with ritualistic precision, then drove his weapon upward into the bird's wing with brutal force, sending it spiraling to the stone ground below. Standing victorious over the fallen raptor, the Aztec raised his blade to the crimson sky, the weight of five centuries of cultural power flowing through his veins as the hawk lay broken and still."
 
-  Game 2: Montana Grizzlies vs Yale Bulldogs
-  WINNER: Yale Bulldogs (Win probability: 91%)
-  "Yale Bulldogs used superior reach and ferocity to keep Montana Grizzlies off-balance all fight, landing a haymaker that sealed the deal."
+  Game 2: Iowa Hawkeyes vs Arkansas Razorbacks
+  WINNER: Arkansas Razorbacks (Win probability: 68%)
+  "In a dense river bottom thick with cypress and mud, the Razorback's lean muscular frame and razor sharp tusks gave it a feral edge as it charged with the aggression of a wild boar cornered and furious. The Hawkeye, a noble but ultimately standard predatory bird, dove and struck with talons and beak, yet lacked the weight and armor plating to withstand the Razorback's relentless goring charges through the muck and briars. When the dust settled among the twisted roots and brackish water, the Razorback stood bloodied but victorious, its iconic tusks still gleaming with primal ferocity."
 
-  Game 3: Akron Zips vs LSU Tigers
-  WINNER: LSU Tigers (Win probability: 94%)
-  "LSU Tigers toyed with Akron Zips early, then unleashed a furious finishing combination that left no doubt about the outcome."
+  Game 3: LSU Tigers vs Montana Grizzlies
+  WINNER: LSU Tigers (Win probability: 72%)
+  "In the shadowed bayou at dusk, the Tiger's powerful frame and apex predator instincts gave it an edge as it circled the Grizzly in the murky water, using the murk to its advantage while its claws raked across thick fur. The Grizzly fought with raw ferocity and surprising speed, landing brutal swipes that nearly ended the match, but the Tiger's superior agility and killer instinct prevailed as it delivered a final shoulder charge that drove the bear backward into the cypress trees. When silence returned to the swamp, only the Tiger remained standing, breathing heavy as the Grizzly limped away into the darkness."
 
-  Game 4: Connecticut Huskies vs San Diego State Aztecs
-  WINNER: San Diego State Aztecs (Win probability: 80%)
-  "It was a bloodbath from the start — San Diego State Aztecs absorbed everything Connecticut Huskies had and came back twice as hard, ending it emphatically."
+  Game 4: Connecticut Huskies vs Auburn Tigers
+  WINNER: Auburn Tigers (Win probability: 73%)
+  "In the rust colored canyons of Arizona at sunset, the Auburn Tiger's muscular frame and razor sharp claws tore through the Husky's attempt at a coordinated pack defense, the feline's natural predator instincts and raw power overwhelming canine loyalty. The Connecticut Husky fought with intelligence and ferocity, snapping and weaving with winter survivor's tenacity, but the Tiger's apex predator status, larger size, and lethal weapons proved decisively superior as fangs and claws found their mark. When the dust settled and echoes faded across the desert rock, only the Auburn beast remained standing, victorious and primal."
 
   --- Sweet 16 ---
 
-  Game 1: Jacksonville State Gamecocks vs Yale Bulldogs
-  WINNER: Jacksonville State Gamecocks (Win probability: 87%)
-  "Jacksonville State Gamecocks dominated Yale Bulldogs from the opening bell. The Yale Bulldogs barely had time to react before the decisive blow ended it all."
+  Game 1: San Diego State Aztecs vs Arkansas Razorbacks
+  WINNER: San Diego State Aztecs (Win probability: 72%)
+  "In the dust swept ruins of an ancient Mesoamerican pyramid at sunset, the Aztec warrior materialized with obsidian blade gleaming and the power of a thousand sacrificial gods coursing through his veins, while the Razorback charged with snorting fury and tusks lowered for a goring assault. The Aztec sidestepped the beast's wild rush with supernatural grace, and the obsidian blade found its mark in a final ritual strike that sent the feral hog tumbling down the stone steps in defeat. As crimson light bathed the temple, the warrior stood victorious with his weapon raised to the darkening sky, channeling the ancient power that had toppled empires."
 
-  Game 2: LSU Tigers vs San Diego State Aztecs
-  WINNER: LSU Tigers (Win probability: 85%)
-  "In a brutal upset, LSU Tigers dismantled San Diego State Aztecs piece by piece, using raw power and cunning to seal the victory."
+  Game 2: LSU Tigers vs Auburn Tigers
+  WINNER: LSU Tigers (Win probability: 58%)
+  "In the shadow of a massive live oak draped with Spanish moss in the heart of the Louisiana bayou, the two apex predators collided with earth shaking force, claws raking and fangs snapping in a brutal dance of pure feline fury. The LSU Tiger's slightly larger frame and battle hardened reputation from generations of gridiron dominance gave it the crucial edge, landing a vicious throat strike that forced the Auburn Tiger back toward the murky swamp water. As both beasts circled, bleeding and breathing hard, the LSU beast pressed its advantage with a final shoulder charge that drove its rival into the mire, leaving only ripples and silence in its wake."
 
   --- Elite 8 ---
 
-  Game 1: Jacksonville State Gamecocks vs LSU Tigers
-  WINNER: LSU Tigers (Win probability: 94%)
-  "LSU Tigers toyed with Jacksonville State Gamecocks early, then unleashed a furious finishing combination that left no doubt about the outcome."
+  Game 1: San Diego State Aztecs vs LSU Tigers
+  WINNER: LSU Tigers (Win probability: 78%)
+  "In the heart of a misty bayou at dusk, the Aztec warrior raised his obsidian macuahuitl and charged with fierce tribal pride, but the Bengal tiger exploded from the cypress trees with a primal roar that shook the swamp itself, all rippling muscle and razor fangs that the macuahuitl could not hope to stop. The warrior's weapon clattered into the murk as four-hundred pounds of apex predator bore him down into the brackish water, where raw predatory instinct and a bite force of one thousand PSI finished what the warrior's cultural power could not withstand. The bayou claimed another challenger as the tiger dragged its prize deeper into the darkness, victorious and undisputed."
 
   *** EAST CHAMPION: LSU TIGERS ***
 
@@ -157,72 +157,72 @@ SOUTH DIVISION
   --- Round of 64 ---
 
   Game 1: Gonzaga Bulldogs vs Longwood Lancers
-  WINNER: Longwood Lancers (Win probability: 77%)
-  "Longwood Lancers toyed with Gonzaga Bulldogs early, then unleashed a furious finishing combination that left no doubt about the outcome."
+  WINNER: Gonzaga Bulldogs (Win probability: 78%)
+  "In the stone courtyard of a medieval castle, the Bulldog charged with the fury of a 60 pound canine built for combat, muscles rippling as powerful jaws snapped forward with bone crushing force. The Lancer thrust his weapon forward but the dog's low center of gravity and relentless aggression closed the distance too fast, his teeth finding the lance shaft and splintering it before slamming the armored human against the castle wall. When the dust settled, the victorious Bulldog stood over the gasping Lancer, a living embodiment of tenacity that no medieval spear could overcome."
 
-  Game 2: Memphis Tigers vs Georgia State Panthers
-  WINNER: Georgia State Panthers (Win probability: 83%)
-  "It was a bloodbath from the start — Georgia State Panthers absorbed everything Memphis Tigers had and came back twice as hard, ending it emphatically."
+  Game 2: Florida State Seminoles vs Colorado Buffaloes
+  WINNER: Florida State Seminoles (Win probability: 72%)
+  "Beneath the scorching Florida sun on a hardpacked Everglades clearing, the Seminole warrior faced the charging Buffalo with spear and blade, his centuries of combat experience and cultural mystique burning like a sacred flame. The beast thundered forward with raw power and horns lowered, but the Seminole read every movement with the precision of a hundred ancestors, sidestepped the charge with explosive footwork, and drove his flaming spear deep into the Buffalo's flank as it stampeded past. The great beast stumbled and fell to one knee, snorting blood and defeat, while the Seminole stood victorious with weapon raised high, his warrior spirit unbroken and supreme."
 
-  Game 3: Arizona Wildcats vs Chattanooga Mocs
-  WINNER: Chattanooga Mocs (Win probability: 85%)
-  "Chattanooga Mocs toyed with Arizona Wildcats early, then unleashed a furious finishing combination that left no doubt about the outcome."
+  Game 3: Ohio State Buckeyes vs Richmond Spiders
+  WINNER: Ohio State Buckeyes (Win probability: 87%)
+  "In a cavernous underground cavern lit by bioluminescent fungi, the Buckeye reared up on hind legs, a massive anthropomorphic nut the size of a grizzly bear with surprising density and crushing power in those woody limbs. The Richmond Spider descended from the shadows with eight legs and venomous fangs, but the Buckeye's sheer mass and rigid shell proved impervious to poison as it drove forward with the force of a linebacker, shattering the arachnid's brittle exoskeleton against the stone walls. The Spider's speed meant nothing against a creature that was both larger and fundamentally more durable, and it crumpled to the cavern floor as the triumphant Buckeye stood amid echoing silence."
 
   Game 4: Virginia Cavaliers vs South Dakota State Jackrabbits
-  WINNER: South Dakota State Jackrabbits (Win probability: 65%)
-  "South Dakota State Jackrabbits used superior reach and ferocity to keep Virginia Cavaliers off-balance all fight, landing a haymaker that sealed the deal."
+  WINNER: Virginia Cavaliers (Win probability: 72%)
+  "On the grounds of a dusty colonial plantation, the mounted Cavalier charged across the field on horseback with sword raised high, the jackrabbit's incredible speed proving useless against the rider's elevated position and steel blade. The South Dakota State jackrabbit's legendary 35 mph sprint and powerful hind legs bought it precious seconds, but the mounted warrior's reach, armor, and weapon advantage overwhelmed the small prey animal in brutal fashion. The Cavalier circled the fallen creature as dust settled around his victorious steed, his historical aristocratic warrior culture proving too much for a creature built for desert escape rather than combat."
 
-  Game 5: Ohio State Buckeyes vs Richmond Spiders
-  WINNER: Ohio State Buckeyes (Win probability: 55%)
-  "Ohio State Buckeyes toyed with Richmond Spiders early, then unleashed a furious finishing combination that left no doubt about the outcome."
+  Game 5: Texas Longhorns vs Michigan Wolverines
+  WINNER: Michigan Wolverines (Win probability: 68%)
+  "In a dusty canyon where the afternoon sun beat down mercilessly, the Longhorn charged with those massive curved horns gleaming like scythes, but the Wolverine met him with savage ferocity that no bovine could match. The Wolverine's claws raked across the Longhorn's face and shoulders while his jaws clamped down with the bone crushing force of a true apex predator, a mustelid built for violence in ways a cattle breed simply was not. When the dust settled, the Longhorn staggered back bleeding and broken, undone by a predator that evolution designed to dominate, while the Wolverine stood bristling and victorious over the horned but ultimately outmatched beast."
 
-  Game 6: Texas Longhorns vs Michigan Wolverines
-  WINNER: Texas Longhorns (Win probability: 79%)
-  "Texas Longhorns dominated Michigan Wolverines from the opening bell. The Michigan Wolverines barely had time to react before the decisive blow ended it all."
+  Game 6: Arizona Wildcats vs Chattanooga Mocs
+  WINNER: Arizona Wildcats (Win probability: 72%)
+  "In a narrow canyon carved from red rock, the Wildcat's predatory instincts and lethal claws tore through the Moc's scaled hide with surgical precision, each strike drawing deeper gouges as the feline's superior agility let it dance circles around the slower aquatic reptile. The Moc thrashed and snapped with ancient reptilian fury, but the Wildcat's speed and mammalian strength proved too much, and it pinned the creature against canyon stone and finished it with a vicious bite to the throat. When dust settled, only the victor's fierce snarl echoed off the red walls."
 
   Game 7: USC Trojans vs UTSA Roadrunners
-  WINNER: USC Trojans (Win probability: 60%)
-  "USC Trojans toyed with UTSA Roadrunners early, then unleashed a furious finishing combination that left no doubt about the outcome."
+  WINNER: USC Trojans (Win probability: 78%)
+  "In the dust swept coliseum of ancient Troy, the Trojan warrior emerged in bronze armor and wielded a spear with the weight of mythological legacy, while the Roadrunner darted and weaved across the sand with desert speed. The bird's quickness kept it alive through three near fatal thrusts, but the warrior's discipline and shield work gradually herded the creature into a corner where there was nowhere left to run. With a final overhead strike, the spear found its mark and the Trojan planted his weapon in the earth, victorious in the shadow of the walls that bore his name."
 
-  Game 8: Florida State Seminoles vs Colorado Buffaloes
-  WINNER: Florida State Seminoles (Win probability: 75%)
-  "It was a bloodbath from the start — Florida State Seminoles absorbed everything Colorado Buffaloes had and came back twice as hard, ending it emphatically."
+  Game 8: Memphis Tigers vs Georgia State Panthers
+  WINNER: Memphis Tigers (Win probability: 73%)
+  "In the shadowy depths of the Memphis underground, the Tigers' primal roar echoed off limestone walls as the massive Bengal exploded from the darkness with fangs bared and claws extended, a apex predator built for pure dominance. The Panthers fought with grace and cunning, but their sleeker frame and speed couldn't match the raw killing power of a true tiger's bite force and shoulder strength. The Tigers emerged from the subterranean clash with blood on their muzzle, the Panthers limping back into the shadows, defeated by nature's own hierarchy."
 
   --- Round of 32 ---
 
-  Game 1: Longwood Lancers vs Georgia State Panthers
-  WINNER: Longwood Lancers (Win probability: 60%)
-  "In a brutal upset, Longwood Lancers dismantled Georgia State Panthers piece by piece, using raw power and cunning to seal the victory."
+  Game 1: Gonzaga Bulldogs vs Florida State Seminoles
+  WINNER: Florida State Seminoles (Win probability: 72%)
+  "Beneath the Spanish moss of an ancient live oak grove, the Bulldog charged with jaw snapping and muscular frame built for a brawl, but the Seminole warrior met the rush with a burning spear and centuries of battle-hardened instinct. The mascot sidestepped the lunge with practiced ease, drove the flaming point deep into the dog's shoulder, and finished the contest with a tomahawk strike that sent the beast crashing into the moss covered earth. When the dust settled, the Seminole stood victorious, the spear still smoking in the Georgia dusk."
 
-  Game 2: Chattanooga Mocs vs South Dakota State Jackrabbits
-  WINNER: Chattanooga Mocs (Win probability: 75%)
-  "Chattanooga Mocs toyed with South Dakota State Jackrabbits early, then unleashed a furious finishing combination that left no doubt about the outcome."
+  Game 2: Ohio State Buckeyes vs Virginia Cavaliers
+  WINNER: Ohio State Buckeyes (Win probability: 72%)
+  "In the scarlet painted halls of the Horseshoe stadium at midnight, the Buckeye's hard shell armor gleamed as it lowered its head and charged with surprising speed, crashing into the Cavalier with bone jarring force. The mounted nobleman on his horse tried to wheel away but the buckeye's density and low center of gravity toppled both rider and steed, and as the Cavalier struggled to rise, the buckeye rolled over him with its shell like a medieval siege weapon. When the dust cleared and the stadium lights came back on, only the Buckeye stood victorious, its armor unmarred and its ancient plant spirit unmoved by steel or mounted tradition."
 
-  Game 3: Ohio State Buckeyes vs Texas Longhorns
-  WINNER: Ohio State Buckeyes (Win probability: 87%)
-  "It was a bloodbath from the start — Ohio State Buckeyes absorbed everything Texas Longhorns had and came back twice as hard, ending it emphatically."
+  Game 3: Michigan Wolverines vs Arizona Wildcats
+  WINNER: Michigan Wolverines (Win probability: 68%)
+  "In the frozen depths of a moonlit Great Lakes ice cavern, the Wolverine's low center of gravity and brutal claw strikes tore through the Wildcat's defenses, its compact frame and relentless ferocity overwhelming the leaner feline. The Wildcat fought with speed and grace, but the Wolverine's legendary toughness and predatory aggression in close quarters proved too much as it drove its opponent against jagged ice and finished the fight with a savage finishing blow. When silence fell, only the Wolverine remained standing, breath misting in the arctic darkness."
 
-  Game 4: USC Trojans vs Florida State Seminoles
-  WINNER: USC Trojans (Win probability: 73%)
-  "USC Trojans used superior reach and ferocity to keep Florida State Seminoles off-balance all fight, landing a haymaker that sealed the deal."
+  Game 4: USC Trojans vs Memphis Tigers
+  WINNER: Memphis Tigers (Win probability: 68%)
+  "In the ruins of an ancient Roman colosseum, the Trojan warrior raised his bronze-tipped spear against the charging Bengal tiger, but the beast's raw predatory power and four hundred pounds of muscle, fangs, and claws proved too savage for mythology alone. The tiger's initial pounce sent the Trojan sprawling, and despite his shield and training, the warrior could not compensate for a apex predator's speed and killing instinct as those massive jaws found their mark. When the dust settled and the crowd fell silent, only the tiger remained standing over the broken soldier, proving that living flesh and evolutionary weapons beat ancient bronze and legend."
 
   --- Sweet 16 ---
 
-  Game 1: Longwood Lancers vs Chattanooga Mocs
-  WINNER: Chattanooga Mocs (Win probability: 76%)
-  "Chattanooga Mocs dominated Longwood Lancers from the opening bell. The Longwood Lancers barely had time to react before the decisive blow ended it all."
+  Game 1: Florida State Seminoles vs Ohio State Buckeyes
+  WINNER: Florida State Seminoles (Win probability: 68%)
+  "In the misty Appalachian foothills at dusk, the Seminole warrior moved with predatory grace, tomahawk gleaming red in the fading light as the Buckeye charged with all the force of a thousand pound herbivore. The warrior sidestepped the blind fury, planted his feet, and drove the blade deep into the creature's neck with a spray of earth and defeat, leaving the buckeye collapsed and gasping while the Seminole stood tall, invoking the spirits of his ancestors who had fought fiercer battles than this. Florida State's cultural weight and the warrior's superior intellect and weaponry proved too much for raw Midwestern stubbornness."
 
-  Game 2: Ohio State Buckeyes vs USC Trojans
-  WINNER: USC Trojans (Win probability: 54%)
-  "USC Trojans toyed with Ohio State Buckeyes early, then unleashed a furious finishing combination that left no doubt about the outcome."
+  Game 2: Michigan Wolverines vs Memphis Tigers
+  WINNER: Memphis Tigers (Win probability: 72%)
+  "In the depths of a misty swamp where cypress trees twisted like skeletal fingers, the Bengal tiger's muscular frame coiled with predatory grace as it stalked the wolverine across the murky water. The wolverine's stocky ferocity meant nothing against four hundred pounds of apex predator instinct: the tiger's claws raked through the smaller animal's defense with surgical precision while those massive fangs found their mark at the throat. When the water stilled, only the victor remained, ears back and blood glistening on white whiskers."
 
   --- Elite 8 ---
 
-  Game 1: Chattanooga Mocs vs USC Trojans
-  WINNER: Chattanooga Mocs (Win probability: 77%)
-  "Chattanooga Mocs dominated USC Trojans from the opening bell. The USC Trojans barely had time to react before the decisive blow ended it all."
+  Game 1: Florida State Seminoles vs Memphis Tigers
+  WINNER: Florida State Seminoles (Win probability: 72%)
+  "Beneath the Spanish moss of an ancient live oak grove in the Florida panhandle, the Seminole warrior circled the Memphis Tiger with calculated precision, spear and fire at the ready. The tiger lunged with fearsome speed and muscle, but the Seminole's intimate knowledge of the land and superior weaponry gave him the edge. A perfectly timed thrust with the burning spear caught the beast mid-attack, and the warrior's blade finished the fight as the tiger collapsed into the undergrowth, blood dark against the moss covered earth."
 
-  *** SOUTH CHAMPION: CHATTANOOGA MOCS ***
+  *** SOUTH CHAMPION: FLORIDA STATE SEMINOLES ***
 
 ------------------------------------------------------------
 MIDWEST DIVISION
@@ -231,72 +231,72 @@ MIDWEST DIVISION
   --- Round of 64 ---
 
   Game 1: Baylor Bears vs Texas Southern Tigers
-  WINNER: Baylor Bears (Win probability: 87%)
-  "Baylor Bears used superior reach and ferocity to keep Texas Southern Tigers off-balance all fight, landing a haymaker that sealed the deal."
+  WINNER: Texas Southern Tigers (Win probability: 72%)
+  "In the heart of a dense Texas pine forest, the Baylor Bear charged with lumbering power and swinging claws, but the Texas Southern Tiger was faster and meaner, a apex predator with fangs and instincts honed by millions of years of evolution. The tiger circled low and struck with savage precision, teeth finding the bear's throat in a brutal takedown that left the larger animal gasping and broken on the forest floor. When the dust settled, only the roar of the victor echoed through the trees."
 
-  Game 2: Kentucky Wildcats vs Winthrop Eagles
-  WINNER: Kentucky Wildcats (Win probability: 63%)
-  "Kentucky Wildcats used superior reach and ferocity to keep Winthrop Eagles off-balance all fight, landing a haymaker that sealed the deal."
+  Game 2: North Carolina Tar Heels vs Marquette Golden Eagles
+  WINNER: Marquette Golden Eagles (Win probability: 72%)
+  "High above the rafters of the Fiserv Forum, the Golden Eagle's razor sharp talons and predatory instincts gave it a devastating aerial advantage as it dove and struck with brutal precision. The Tar Heel, bound to the court below as a humanoid figure made of colonial grit, swung wildly but could only watch as the great bird circled and struck again, its powerful wings and hooked beak too much for a mythless mortal to overcome. When the dust settled, the Eagle perched victorious on the scoreboard, wings spread wide in dominance."
 
-  Game 3: UCLA Bruins vs Wright State Raiders
-  WINNER: Wright State Raiders (Win probability: 60%)
-  "Wright State Raiders dominated UCLA Bruins from the opening bell. The UCLA Bruins barely had time to react before the decisive blow ended it all."
+  Game 3: Houston Cougars vs Cincinnati Bearcats
+  WINNER: Houston Cougars (Win probability: 68%)
+  "In the concrete depths of a midnight warehouse, the lithe Cougar circled with predatory grace, muscles coiled and claws extended as the Bearcat charged with ferocious power and relentless jaw strength. The Cougar's superior agility and speed allowed it to slip the initial assault, raking across the Bearcat's face with razor sharp strikes before pivoting away from the beast's retaliatory swipes. When the Bearcat stumbled from accumulated wounds and exhaustion, the Cougar delivered a final lethal pounce to the throat, leaving the stockier feline gasping on the cold concrete floor."
 
   Game 4: Providence Friars vs Rutgers Scarlet Knights
-  WINNER: Providence Friars (Win probability: 87%)
-  "Providence Friars toyed with Rutgers Scarlet Knights early, then unleashed a furious finishing combination that left no doubt about the outcome."
+  WINNER: Rutgers Scarlet Knights (Win probability: 68%)
+  "In the cobblestone streets of colonial Providence, the armored Knight on horseback charged down the Friar with lance lowered, the holy man's brown robes no match for steel and momentum. The Knight's spear pierced through cloth and drove the Friar backward into a stone wall, where armor and training proved superior to faith and sandals. When the dust settled, the mounted warrior stood victorious while the Friar lay crumpled in the gutter, outmatched by centuries of medieval weaponry and warrior discipline."
 
-  Game 5: Houston Cougars vs Cincinnati Bearcats
-  WINNER: Houston Cougars (Win probability: 94%)
-  "Houston Cougars toyed with Cincinnati Bearcats early, then unleashed a furious finishing combination that left no doubt about the outcome."
+  Game 5: TCU Horned Frogs vs Indiana Hoosiers
+  WINNER: TCU Horned Frogs (Win probability: 72%)
+  "In a shadowy bayou arena thick with cypress and hanging moss, the Horned Frog's venomous spines and low center of gravity gave it a vicious advantage as it darted beneath the Hoosier's guard with striking speed and precision. The frog's toxic secretions burned through the human mascot's defenses while its powerful hind legs delivered brutal kicks that sent the Hoosier reeling backward into the murky water. As the swamp water closed around the defeated fighter, the small but lethal amphibian stood victorious, proving that size means nothing when you fight like poison wrapped in muscle."
 
-  Game 6: TCU Horned Frogs vs Indiana Hoosiers
-  WINNER: TCU Horned Frogs (Win probability: 60%)
-  "TCU Horned Frogs used superior reach and ferocity to keep Indiana Hoosiers off-balance all fight, landing a haymaker that sealed the deal."
+  Game 6: UCLA Bruins vs Wright State Raiders
+  WINNER: UCLA Bruins (Win probability: 78%)
+  "In the concrete jungle of downtown Los Angeles, the massive Bruin rose on hind legs with a roar that shattered car windows, its claws raking through the air like curved scythes while muscular shoulders tensed for the kill. The Wright State Raider, a mere human in leather armor, fired arrows and swung a tomahawk in desperate defense, but the predator's sheer tonnage and apex hunter instincts overwhelmed the warrior's skill and courage. The Bruin's jaws closed on the raider's shield arm and wrenched him to the asphalt, where one crushing blow ended the fight and left only echoing silence in the urban canyon."
 
   Game 7: Murray State Racers vs San Francisco Dons
-  WINNER: San Francisco Dons (Win probability: 65%)
-  "It was a bloodbath from the start — San Francisco Dons absorbed everything Murray State Racers had and came back twice as hard, ending it emphatically."
+  WINNER: San Francisco Dons (Win probability: 72%)
+  "In the marble halls of a crumbling cathedral, the Racer charged forward with speed and agility, but the Don stood serene and commanding, channeling the divine authority of Spanish nobility and religious power that had conquered continents. The Don's legendary swagger and mythical prestige as a noble conquistador proved too much for a mere ground bound competitor; with a sweeping gesture of aristocratic dominance, the Don cast the Racer aside like a peasant, leaving the swift athlete humbled and outmatched by sheer cultural gravitas and historical intimidation."
 
-  Game 8: North Carolina Tar Heels vs Marquette Golden Eagles
-  WINNER: Marquette Golden Eagles (Win probability: 91%)
-  "In a brutal upset, Marquette Golden Eagles dismantled North Carolina Tar Heels piece by piece, using raw power and cunning to seal the victory."
+  Game 8: Kentucky Wildcats vs Winthrop Eagles
+  WINNER: Kentucky Wildcats (Win probability: 72%)
+  "In the shadowed rafters of Rupp Arena, the Wildcat's feral snarl and predatory grace gave way to a vicious assault as it tore through the Eagles's aerial advantage with pure mammalian ferocity and speed. The Eagle's talons raked but found no purchase against the cat's low, powerful build and ruthless ground combat, and within moments the Wildcat had the bird pinned, its wildcat strength overwhelming the avian's hollow bones and fragile frame. When the dust cleared, the Wildcat stood victorious over the fallen raptor, a symbol of raw predatory dominance."
 
   --- Round of 32 ---
 
-  Game 1: Baylor Bears vs Kentucky Wildcats
-  WINNER: Kentucky Wildcats (Win probability: 89%)
-  "It was a bloodbath from the start — Kentucky Wildcats absorbed everything Baylor Bears had and came back twice as hard, ending it emphatically."
+  Game 1: Texas Southern Tigers vs Marquette Golden Eagles
+  WINNER: Marquette Golden Eagles (Win probability: 72%)
+  "High above the Milwaukee skyline on a wind-lashed cathedral roof, the Golden Eagle dove with talons extended while the Tiger prowled below, powerful but earthbound and gasping in the thin air. The eagle's savage aerial strikes tore through fur and flesh, its predatory instinct and three-dimensional advantage turning the rooftop into a brutal domain where ground strength meant nothing. The Tiger fell bleeding as the Golden Eagle perched victorious on the spire, wings spread wide against the storm clouds."
 
-  Game 2: Wright State Raiders vs Providence Friars
-  WINNER: Providence Friars (Win probability: 82%)
-  "Providence Friars dominated Wright State Raiders from the opening bell. The Wright State Raiders barely had time to react before the decisive blow ended it all."
+  Game 2: Houston Cougars vs Rutgers Scarlet Knights
+  WINNER: Rutgers Scarlet Knights (Win probability: 72%)
+  "In the granite halls of a medieval castle, the Cougar lunged with fangs bared and claws extended, a sleek predator built for speed and savagery. The Scarlet Knight planted his armored boots firm against the stone floor and swung a broadsword in a vicious arc, the blade catching the beast across its shoulder as it twisted past and stumbled backward, blood dark against golden fur. The Knight pressed forward relentlessly, steel and discipline overwhelming raw animal fury until the Cougar fell to one knee, defeated by man's oldest tools: armor, steel, and the will to fight beyond instinct."
 
-  Game 3: Houston Cougars vs TCU Horned Frogs
-  WINNER: Houston Cougars (Win probability: 91%)
-  "In a brutal upset, Houston Cougars dismantled TCU Horned Frogs piece by piece, using raw power and cunning to seal the victory."
+  Game 3: TCU Horned Frogs vs UCLA Bruins
+  WINNER: UCLA Bruins (Win probability: 72%)
+  "Beneath the bleachers of the Rose Bowl at midnight, the Horned Frog's poison and quick reflexes kept it alive but not ahead, darting and spitting as the Bruin methodically stalked forward. The bear's raw physicality and superior predator status eventually overwhelmed the reptile's defensive tactics when one massive paw caught the frog mid leap and slammed it against concrete with finality."
 
-  Game 4: San Francisco Dons vs Marquette Golden Eagles
-  WINNER: San Francisco Dons (Win probability: 69%)
-  "It was a bloodbath from the start — San Francisco Dons absorbed everything Marquette Golden Eagles had and came back twice as hard, ending it emphatically."
+  Game 4: San Francisco Dons vs Kentucky Wildcats
+  WINNER: Kentucky Wildcats (Win probability: 72%)
+  "In the granite canyons of the San Francisco waterfront, the sleek wildcat stalked with predatory grace, muscles coiled and fangs bared as the Don stood firm in his Renaissance doublet and feathered hat. The wildcat struck like lightning, raking claws across the nobleman's chest before dodging his desperate rapier thrusts with feline agility. As the Don bled and stumbled backward toward the bay, the Wildcat delivered a final vicious throat strike that sent him tumbling into the cold Pacific, proving that raw animal savagery and predatory instinct overcame genteel European swordplay."
 
   --- Sweet 16 ---
 
-  Game 1: Kentucky Wildcats vs Providence Friars
-  WINNER: Providence Friars (Win probability: 85%)
-  "Providence Friars toyed with Kentucky Wildcats early, then unleashed a furious finishing combination that left no doubt about the outcome."
+  Game 1: Marquette Golden Eagles vs Rutgers Scarlet Knights
+  WINNER: Rutgers Scarlet Knights (Win probability: 68%)
+  "In the crumbling stone halls of a medieval castle, the Golden Eagle dove with talons extended and razor sharp beak snapping, but the Scarlet Knight met the strike with a steel gauntleted fist and drove his longsword up through wing and body with brutal precision. The bird shrieked and fell, its natural predator instincts no match for a fully armored warrior wielding forged medieval steel and centuries of martial training. The Knight stood over the broken wings, breathing hard beneath his visor as feathers settled like snow on the blood stained floor."
 
-  Game 2: Houston Cougars vs San Francisco Dons
-  WINNER: Houston Cougars (Win probability: 54%)
-  "In a brutal upset, Houston Cougars dismantled San Francisco Dons piece by piece, using raw power and cunning to seal the victory."
+  Game 2: UCLA Bruins vs Kentucky Wildcats
+  WINNER: UCLA Bruins (Win probability: 68%)
+  "In the granite canyons of Yosemite Valley, the massive grizzly bear rose on hind legs and unleashed a roar that echoed off stone walls, its claws like curved daggers ready to eviscerate. The wildcat circled with predatory grace but lacked the sheer physical dominance and size advantage of an apex bear, and when the Bruin charged with full force, the wildcat's superior agility and combat instincts could only delay the inevitable as those powerful paws connected with brutal finality. The bear stood victorious over its smaller feline opponent, muscles rippling in the mountain sunlight as the wildcat retreated into the shadows, outmatched by raw strength and evolutionary design."
 
   --- Elite 8 ---
 
-  Game 1: Providence Friars vs Houston Cougars
-  WINNER: Providence Friars (Win probability: 54%)
-  "Providence Friars used superior reach and ferocity to keep Houston Cougars off-balance all fight, landing a haymaker that sealed the deal."
+  Game 1: Rutgers Scarlet Knights vs UCLA Bruins
+  WINNER: UCLA Bruins (Win probability: 72%)
+  "In the concrete jungle of Pauley Pavilion at midnight, the Scarlet Knight advanced with lance and shield, metal gleaming under the court lights as he charged with medieval fury. The UCLA Bruin rose to full height on hind legs, massive paws extended with claws like obsidian daggers, and met the knight's thrust with a bone-shattering swipe that splintered the wooden lance and sent the armored warrior sprawling backward across the hardwood. The bear's raw predatory power and apex muscle simply overwhelmed the human in a suit, pinning the knight down as the crowd fell silent."
 
-  *** MIDWEST CHAMPION: PROVIDENCE FRIARS ***
+  *** MIDWEST CHAMPION: UCLA BRUINS ***
 
 ============================================================
 FINAL FOUR
@@ -304,24 +304,24 @@ FINAL FOUR
 
   --- Semifinal 1: West vs East ---
 
-  Game 1: Tennessee Volunteers vs LSU Tigers
-  WINNER: LSU Tigers (Win probability: 76%)
-  "LSU Tigers dominated Tennessee Volunteers from the opening bell. The Tennessee Volunteers barely had time to react before the decisive blow ended it all."
+  Game 1: Duke Blue Devils vs LSU Tigers
+  WINNER: LSU Tigers (Win probability: 73%)
+  "In the swampy bayou at dusk, the Blue Devil materialized in a cloud of sulfurous smoke, all crimson skin and supernatural menace, but the LSU Tiger exploded from the murky water with the brutal physics of a 400 pound apex predator, fangs gleaming as it dragged the demon into a death roll that shattered bones and scattered the mystical aura like ash. The Tiger's raw animal ferocity and predatory instinct overwhelmed the Devil's otherworldly tricks, claws raking through hide as the demon's advantage in pure mythical power couldn't match teeth, muscle, and the primal hunger of a creature born to kill."
 
   --- Semifinal 2: South vs Midwest ---
 
-  Game 1: Chattanooga Mocs vs Providence Friars
-  WINNER: Providence Friars (Win probability: 61%)
-  "It was a bloodbath from the start — Providence Friars absorbed everything Chattanooga Mocs had and came back twice as hard, ending it emphatically."
+  Game 1: Florida State Seminoles vs UCLA Bruins
+  WINNER: Florida State Seminoles (Win probability: 72%)
+  "In the humid depths of the Florida Everglades at dusk, the Seminole warrior emerged from the cypress trees with a burning spear and centuries of ancestral combat knowledge, while the Bruin charged with raw animal fury and powerful claws. The Seminole's tactical precision and weapon training proved decisive as he sidestepped the beast's lunge, planted his spear deep into the Bruin's shoulder, and finished with a swift blade strike while the wounded animal stumbled backward into the murky water. When the ripples settled, the warrior stood victorious on the muddy bank, his spear still gleaming in the fading light."
 
 ============================================================
 CHAMPIONSHIP
 ============================================================
 
 
-  Game 1: LSU Tigers vs Providence Friars
+  Game 1: LSU Tigers vs Florida State Seminoles
   WINNER: LSU Tigers (Win probability: 72%)
-  "LSU Tigers dominated Providence Friars from the opening bell. The Providence Friars barely had time to react before the decisive blow ended it all."
+  "In the humid depths of a Louisiana bayou at dusk, the massive Bengal tiger exploded from the murky water with savage power, its 400 pound frame and razor sharp fangs overwhelming the Seminole warrior before he could raise his flaming spear. The tiger's primal roar shattered the evening air as it pinned its opponent against cypress roots, its predatory instinct and apex killer status proving too much for even the skilled and storied warrior. When the dust and spray settled, the tiger stood victorious over the fallen legend, proving that raw animal ferocity beats human courage and tradition."
 
 ============================================================
      MASCOT MADNESS CHAMPION: LSU TIGERS

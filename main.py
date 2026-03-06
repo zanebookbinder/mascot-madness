@@ -1,4 +1,5 @@
 import os
+from datetime import datetime
 
 from dotenv import load_dotenv
 
@@ -19,10 +20,13 @@ def main() -> None:
     else:
         print("API key detected — using Claude for fight simulations.")
 
-    tournament = Tournament(bracket, simulator)
+    timestamp = datetime.now().strftime("%m_%d_%Y-%H_%M_%S")
+    output_file = f"output/{timestamp}.txt"
+
+    tournament = Tournament(bracket, simulator, output_file)
     tournament.run()
 
-    print("Tournament complete! Results written to output/run1.txt")
+    print(f"Tournament complete! Results written to {output_file}")
 
 
 if __name__ == "__main__":

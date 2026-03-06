@@ -14,7 +14,7 @@ class Tournament:
         self,
         bracket: Bracket,
         simulator: FightSimulator,
-        output_file: str = "output/run1.txt",
+        output_file: str = "output/run1.txt",  # caller should pass a timestamped path
     ) -> None:
         """
         Args:
@@ -74,6 +74,7 @@ class Tournament:
                     if round_idx < len(DIVISION_ROUND_NAMES)
                     else f"Round of {teams_count}"
                 )
+                print('Starting round:', round_name, 'for division:', division_name)
                 winners = self._run_single_division_round(division_name, round_name)
                 self.bracket.advance_round(division_name, winners)
                 teams_count = len(winners)
@@ -82,7 +83,7 @@ class Tournament:
             champion = self.bracket.divisions[division_name].teams[0]
             region_winners[division_name] = champion
             self._record("")
-            self._record(f"  *** {division_name.upper()} CHAMPION: {champion.name.upper()} ***")
+            self._record(f"  *** {division_name.upper()} CHAMPION: {champion.name.upper()} ***", should_print=True)
 
         return region_winners
 
@@ -157,9 +158,11 @@ class Tournament:
         # Wrap narrative with quotes, indented
         self._record(f'  "{result.narrative}"')
 
-    def _record(self, line: str) -> None:
+    def _record(self, line: str, should_print: bool = False) -> None:
         """Append a line to the in-memory results buffer."""
         self._results.append(line)
+        if should_print:
+            print(line)
 
     def _write_output(self) -> None:
         """Flush the results buffer to the output file, creating dirs as needed."""

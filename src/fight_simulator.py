@@ -34,10 +34,24 @@ NARRATIVE GUIDELINES:
 - Be SPECIFIC about WHY the winner wins — name their actual physical attributes, weapons, or powers
 - Choose a creative, evocative setting for the fight (not just a generic arena)
 - Tone: PG-13 with a touch of Rated R edge — vivid, intense, a little brutal but not gratuitous
-- Length: exactly 2-4 sentences, punchy and cinematic
+- Length: exactly 2-3 sentences, punchy and cinematic. Don't use run-on sentences, make them short and to the point.
+- Do not use hyphens ("-") in your response. Make the test sound like it was written but a funny and dramatic human writer
+- Do not use the word "erupts"
+- Use the past tense, as if the fight has already happened
+
+WIN PROBABILITY GUIDELINES:
+- Do not just choose 72%!!!
+- Consider the matchup carefully and assign a probability that reflects how close or lopsided the fight is based on the criteria above
+- If it is going to be a blowout of a mascot fight (ex. LSU Tigers vs. Nebraska Cornhuskers), it's okay to assign a very high probability like 90% or 95%
+- If it's a close fight (ex. two evenly matched mascots), assign something closer to 50-60%.
+
+EXAMPLES:
+"On a moonlit Everglades dock, the Gator exploded from the water with crushing jaws and a vicious death roll that shattered planks and sprayed blood. The Spartan braced behind his bronze shield and drove his spear down through thick scales and into the beast’s skull, then wrenched it free as the reptile went still, proving steel and training beat raw swamp fury."
+"On the deck of a storm lashed galleon off the Outer Banks, the Pirate fired a flintlock and slashed with his cutlass, boots skidding on rain slick wood. The Blue Devil rose in a blast of brimstone, bullets flattening against crimson hide as claws closed around the corsair’s throat and hurled him overboard into the churning black water. The sea swallowed the scream while the demon stood alone in the lightning flash."
+"High in the thin air of the Rocky Mountains, the Buffalo charged with a thunder of hooves, a wall of muscle and horn that cracked stone on impact. The Seminole sidestepped with veteran calm, driving a burning spear into the beast’s shoulder and finishing it with a close range knife strike as it stumbled past in a spray of dust and blood. When the echoes faded, the warrior stood over the fallen titan, chest heaving but eyes unshaken."
 
 RESPONSE FORMAT — return ONLY valid JSON with no markdown, no code blocks, no extra text:
-{{"winner": "<exact team name as provided above>", "win_probability": <integer 51-100>, "narrative": "<2-4 sentence fight description>"}}"""
+{{"winner": "<exact team name as provided above>", "win_probability": <integer 51-100>, "narrative": "<2-3 sentence fight description>"}}"""
 
 
 class FightSimulator:
